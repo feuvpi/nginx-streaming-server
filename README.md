@@ -1,4 +1,4 @@
-# Nginx Streaming Server with Docker
+# Nginx Streaming Server
 
 This repository contains the configuration files and setup instructions for running an Nginx streaming server using Docker.
 
